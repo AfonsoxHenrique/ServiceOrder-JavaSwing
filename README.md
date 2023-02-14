@@ -1,5 +1,7 @@
 # JavaSwingOrdemServico
-Projeto CRUD para criação de Ordem de Serviço.
+CRUD project for an Service Order.
+
+OOP, Java Swing, MySQL
 
 
 
