@@ -1,5 +1,5 @@
 # JavaSwingOrdemServico
-CRUD project for an Service Order.
+CRUD project for a Service Order.
 
 OOP, Java Swing, MySQL
 
